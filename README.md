@@ -1,4 +1,4 @@
-# Video_resultado
+# Desafio final
 
 
-Vídeo feito para visualização de uma aplicação prática do conteúdo desenvolvido ao longo do projeto SynkarV
+Desafio realizado como prática do conteúdo desenvolvido ao longo do projeto SynkarV.
